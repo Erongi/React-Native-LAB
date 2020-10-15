@@ -1,5 +1,5 @@
 <p align="center">
-   <imgsrc="../demo/lab8.PNG">
+   <imgsrc="./demo/lab8.PNG" width="400">
 </p>
 
 ## lab 8 : Navigation
