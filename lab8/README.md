@@ -1,3 +1,7 @@
+<p align="center">
+   <imgsrc="../demo/lab8.PNG">
+</p>
+
 ## lab 8 : Navigation
 ```sh
 expo install react-navigation
@@ -8,6 +12,3 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 ```sh
 expo install react-navigation-stack
 ```
-<p align="center">
-   <imgsrc="../demo/lab8.PNG">
-</p>
