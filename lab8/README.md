@@ -1,6 +1,7 @@
 <p align="center">
-   <imgsrc="./demo/lab8.PNG" width="400">
+    <img alt="react-native" src="../demo/lab8.PNG" width="800">
 </p>
+
 
 ## lab 8 : Navigation
 ```sh
