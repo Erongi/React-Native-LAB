@@ -1,9 +1,9 @@
 <p align="center">
-    <img alt="react-native" src="../demo/lab8.PNG" width="800">
+    <img alt="react-native" src="../demo/lab9.PNG" width="800">
 </p>
 
 
-## lab 8 : Navigation
+## lab 9 : Navigation
 ```sh
 expo install react-navigation
 ```
