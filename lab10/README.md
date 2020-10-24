@@ -18,3 +18,4 @@ npm i react-navigation-header-buttons
 ```sh
 npm i @expo/vector-icons
 ```
+(https://icons.expo.fyi/)
