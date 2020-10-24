@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="react-native" src="./demo/lab10.png" width="800">
+    <img alt="react-native" src="../demo/lab10.png" width="800">
 </p>
 
 ## lab 10 : Navigation(part 2)
