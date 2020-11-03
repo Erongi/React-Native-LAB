@@ -2,9 +2,9 @@
     <img alt="react-native" src="../demo/lab11.PNG" width="800">
 </p>
 
-## lab 10 : Navigation(part 2)
+## lab 11 : State Management
 
-install lab9
+install Lab 10 : Navigation (Part 2)
 ```sh
 expo install redux react-redux
 ```
